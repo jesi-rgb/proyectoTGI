@@ -11,7 +11,30 @@
 - KTOE: Thousand tonnes of oil equivalent.
 
 # Electricity prices household
-- KWH: Kilowatt per hour.
+- **KWH**: Kilowatt per hour.
+
+- **4161901**: Consumption < 1 000 kWh
+
+- **4161902**: 1 000 kWh < Consumption < 2 500 kWh
+
+- **4161903**: 2 500 kWh < Consumption < 5 000 kWh
+
+- **4161904**: 5 000 kWh < Consumption < 15 000 kWh
+
+- **4161905**: Consumption > 15 000 kWh
+
+- **I_TAX**: Include all taxes
+
+- **X_VAT**: Exclude only VAT taxes
+
+- **X_TAX**: Exclude all kinds of taxes
+
+# Gas prices household
+- **GJ_GCV**: Giga Jule gross calorific value
+
+- **4141901**: Consumption < 20 GJ
+- **4141902**: 20 GJ < Consumption < 200 GJ
+- **4141903**: Consumption > 200 GJ
 
 # Energy productivity
 - EUR_KGOE: Euro per kilogram of oil equivalent.
@@ -31,6 +54,5 @@
 - H8000: Heat
 - N900H: Nuclear heat
 
-# Gas prices household
-- GJ_GCV: Giga Jule gross calorific value
+
 
