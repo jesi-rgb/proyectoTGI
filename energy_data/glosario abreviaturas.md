@@ -38,7 +38,7 @@
 
 # Energy productivity
 - EUR_KGOE: Euro per kilogram of oil equivalent.
-- PPS_KGOE: Puchasing power standard per kilogram of oil equivalent.
+- PPS_KGOE: Purchasing power standard per kilogram of oil equivalent.
 
 # Energy supply
 - NRGSUP: Energy supply?
